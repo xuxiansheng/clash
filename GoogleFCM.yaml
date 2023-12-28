@@ -1,6 +1,5 @@
 payload:
   # > Google FCM
-  - DOMAIN-KEYWORD,evernote
   - DOMAIN-KEYWORD,www.google.
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
