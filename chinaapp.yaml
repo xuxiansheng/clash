@@ -7,6 +7,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 308
 payload:
+  - DOMAIN-KEYWORD,cscec
   - DOMAIN-SUFFIX,2333333333333.com
   - DOMAIN-SUFFIX,365yg.com
   - DOMAIN-SUFFIX,activitybyte.com
