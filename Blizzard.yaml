@@ -92,4 +92,10 @@ payload:
   - DOMAIN,cdn.blz-contentstack.com
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-KEYWORD,battle
+  - DOMAIN-KEYWORD,blizzard
+  - DOMAIN-KEYWORD,starcraft
+
+  
+
 
